@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0937CD4C-6980-420F-A7E0-E787C3E7333E}|Solution Items{0937CD4C-6980-420F-A7E0-E787C3E7333E}|C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0937CD4C-6980-420F-A7E0-E787C3E7333E}|Solution Items{0937CD4C-6980-420F-A7E0-E787C3E7333E}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C1BB6-4978-4C16-9157-93DB5C707DC9}|Olimpia\\Olimpia.csproj|c:\\users\\tanulo\\gitworkdir\\olimpia\\olimpia\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C1BB6-4978-4C16-9157-93DB5C707DC9}|Olimpia\\Olimpia.csproj|solutionrelative:olimpia\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C1BB6-4978-4C16-9157-93DB5C707DC9}|Olimpia\\Olimpia.csproj|c:\\users\\tanulo\\gitworkdir\\olimpia\\olimpia\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C1BB6-4978-4C16-9157-93DB5C707DC9}|Olimpia\\Olimpia.csproj|solutionrelative:olimpia\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C1BB6-4978-4C16-9157-93DB5C707DC9}|Olimpia\\Olimpia.csproj|c:\\users\\tanulo\\gitworkdir\\olimpia\\olimpia\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C1BB6-4978-4C16-9157-93DB5C707DC9}|Olimpia\\Olimpia.csproj|solutionrelative:olimpia\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Models\\OlimpiaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Olimpia\\Models\\OlimpiaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 348,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-11T08:59:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dto.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Models\\dto.cs",
+              "RelativeDocumentMoniker": "Olimpia\\Models\\dto.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Models\\dto.cs",
+              "RelativeToolTip": "Olimpia\\Models\\dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:10:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Olimpia\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Olimpia\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:05:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Olimpia\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Olimpia\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:04:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OlimpiaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Models\\OlimpiaContext.cs",
+              "RelativeDocumentMoniker": "Olimpia\\Models\\OlimpiaContext.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\GitWorkDir\\Olimpia\\Olimpia\\Models\\OlimpiaContext.cs",
+              "RelativeToolTip": "Olimpia\\Models\\OlimpiaContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:41:11.857Z",
+              "EditorCaption": ""
             }
           ]
         },
