@@ -32,5 +32,27 @@ namespace Olimpia.Controllers
             }
             return BadRequest();
         }
+        [HttpGet]
+        public ActionResult<Data> Get()
+        {
+            using (var context = new OlimpiaContext())
+            {
+                return Ok(context.Datas.ToList());
+            }
+        }
+        [HttpGet("{id}")]
+        public ActionResult<Data> GetById(Guid id)
+        {
+            using (var context = new OlimpiaContext())
+            {
+                var data = context.Datas.FirstOrDefault(x => x.Id == id);
+                if (data != null)
+                {
+                    return Ok(data);
+                }
+                return NotFound();
+            }
+        }
+        
     }
 }
